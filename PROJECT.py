@@ -1,7 +1,7 @@
 from PyQt5.QtWidgets import QApplication, QMainWindow, QListWidgetItem
 from PyQt5.uic import loadUi
 import sys
-# from qtconsole.qt import QtCore
+from qtconsole.qt import QtCore
 
 class Main(QMainWindow):
     def __init__(self):
